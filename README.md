@@ -8,6 +8,7 @@ Welcome to the Resistor Calculator repository! This tool is designed to help you
 * Educational Tool: Great for learning and teaching about resistor color codes and electronics.
 * Background customization: Provides a button to customize the background.
 ## How to Use
+* Dowload the installer on : https://github.com/TheFlame09/resistor-calculator/tree/main/versions/LATEST 
 * Select the Number of Bands: Choose whether your resistor has 3, 4, 5, or 6 color bands.
 * Input the Colors: Select the color of each band.
 * Calculate: Click the “Enter” button to get the resistance value.
