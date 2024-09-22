@@ -14,6 +14,11 @@ Welcome to the Resistor Calculator repository! This tool is designed to help you
 * Calculate: Click the “Enter” button to get the resistance value.
 * Reset: Click the "Reset" button to reset the value of the resistor.
 
+# Tips for Reading Resistors
+ * Always read from left to right.
+ * For 3-band resistors, the first band is usually the nearest to the edge.
+ * For 5 and 4-band resistors, the tolerance band is usually spaced further apart from the other bands.
+ * For 6-band resistors, the tolerance and temperature coefficient bands are typically grouped together at the end.
 
 # Release notes
 ## version 1.0.4:
@@ -34,3 +39,9 @@ Welcome to the Resistor Calculator repository! This tool is designed to help you
 ## version 1.0.7:
 * minor changes
 * bug fixes.
+  
+ 
+  #Error codes
+  ## 1.0:
+   * While using five or four bands, last band value is not assigned.
+   * While using six bands, fifth or sixth band value is not assigned.
