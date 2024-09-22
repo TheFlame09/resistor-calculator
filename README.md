@@ -41,7 +41,7 @@ Welcome to the Resistor Calculator repository! This tool is designed to help you
 * bug fixes.
   
  
-  #Error codes
+  # Error codes
   ## 1.0:
    * While using five or four bands, last band value is not assigned.
   ## 1.1:
