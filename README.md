@@ -21,7 +21,7 @@ Welcome to the Resistor Calculator repository! This tool is designed to help you
  * For 6-band resistors, the tolerance and temperature coefficient bands are typically grouped together at the end.
 
 # Release notes
-## version 1.0.4:
+## Version 1.0.4:
 * bug fixes
 * added background customization
 
