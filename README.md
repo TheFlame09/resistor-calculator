@@ -1,3 +1,4 @@
+###### Disclaimer, this program only works on windows!!
 # Resistor Calculator
 Welcome to the Resistor Calculator repository! This tool is designed to help you easily calculate the resistance of a resistor by selecting its color bands. Whether you’re a student, hobbyist, or professional in electronics, this calculator will simplify your work and save you time.
 
