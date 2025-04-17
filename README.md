@@ -45,9 +45,24 @@ Welcome to the Resistor Calculator repository! This tool is designed to help you
 * major code change
 * bug fixes.
 * file location is updated
-   
+
+## Version 2.0.0: 
+* major code change
+* added led calculator
+* added program info button
+* bug fixes
+* minor changes
+  
   # Error codes
   ## 1.0:
    * While using five or four bands, last band value is not assigned.
   ## 1.1:
-  * While using six bands, fifth or sixth band value is not assigned.
+   * While using six bands, fifth or sixth band value is not assigned.
+  ## 3.0:
+   * In the led calculator, a value is either null or zero
+  ## 4.0:
+   * In the led calculator, a value exceeds the limit.
+  ## 5.0:
+   * In the led calculator, a value isn't a number.
+  ## 6.0:
+   * In the led calculator, the led voltage rating is greater then the input voltage
