@@ -8,13 +8,15 @@ Welcome to the Resistor Calculator repository! This tool is designed to help you
 * Accurate Calculations: Provides precise resistance values based on standard color codes.
 * Educational Tool: Great for learning and teaching about resistor color codes and electronics.
 * Background customization: Provides a button to customize the background.
-## How to Use
+## How to Use the Resistor Calculator
 * Dowload the installer on : https://github.com/TheFlame09/resistor-calculator/tree/main/versions/LATEST 
 * Select the Number of Bands: Choose whether your resistor has 3, 4, 5, or 6 color bands.
 * Input the Colors: Select the color of each band.
 * Calculate: Click the “Enter” button to get the resistance value.
 * Reset: Click the "Reset" button to reset the value of the resistor.
-
+## How to Use the LED Resistor Calculator
+* Insert led amps rating, voltage rating(These are found in the manufacturer's datasheet), and the input voltage.
+* If you don't know these specifications. You can use the led button to take a look at the most common ratings for the type of led you have (note: these may not be 100% acuurate).
 # Tips for Reading Resistors
  * Always read from left to right.
  * For 3-band resistors, the first band is usually the nearest to the edge.
